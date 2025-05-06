@@ -1,4 +1,2 @@
----
-title: Welcome 🔥
----
+Welcome 🔥
 
